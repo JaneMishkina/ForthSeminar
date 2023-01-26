@@ -1,0 +1,15 @@
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\bin\Debug\net6.0\Example025.exe
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\bin\Debug\net6.0\Example025.deps.json
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\bin\Debug\net6.0\Example025.runtimeconfig.json
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\bin\Debug\net6.0\Example025.dll
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\bin\Debug\net6.0\Example025.pdb
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\Example025.csproj.AssemblyReference.cache
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\Example025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\Example025.AssemblyInfoInputs.cache
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\Example025.AssemblyInfo.cs
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\Example025.csproj.CoreCompileInputs.cache
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\Example025.dll
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\refint\Example025.dll
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\Example025.pdb
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\Example025.genruntimeconfig.cache
+C:\Users\JaneM\OneDrive\Документы\GB\ForthSeminar Homework\Example025\obj\Debug\net6.0\ref\Example025.dll
